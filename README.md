@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Kit de Conversão e Renomeação de Imagens
 
