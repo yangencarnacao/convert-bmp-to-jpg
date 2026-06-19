@@ -93,7 +93,3 @@ Independentemente do método escolhido, as ferramentas foram desenhadas para seg
 ## ⚖️ Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para obter mais detalhes.
-
-
-
-```
